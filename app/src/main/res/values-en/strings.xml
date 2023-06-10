@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Challenge_Android_DIO</string>
-    <string name="saudacao_text">Hello, Word! My name is</string>
     <string name="identificacao_text">Android</string>
+    <string name="saudacao_text">Hello, Word! My name is</string>
 </resources>
