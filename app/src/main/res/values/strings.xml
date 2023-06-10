@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Desafio_Android_DIO</string>
+    <string name="saudacao_text">Olá, Mundo! Meu nome é</string>
+    <string name="identificacao_text">Android</string>
 </resources>
